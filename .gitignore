@@ -1,0 +1,14 @@
+*.json
+!settings.json 
+.env
+
+.venv/
+venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode/
